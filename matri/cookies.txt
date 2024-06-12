@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.kayke-rodrigues.pages.net.br	TRUE	/	FALSE	1999999999	__cf_bm	LCs2rWMCauoXNcnLYBCuX4A0ki3W0WGWA00mXVD6daU-1709557597-1.0.1.1-8VeQ8XY2UkO_Pud.tr4Xq7l0bpJ9gw3ohOx9ECq4q.s0dg4xPWzugCV.EctxHo_rVKivTs.UB2fPPR2qYtJ4sw
+kayke-rodrigues.pages.net.br	TRUE	/	FALSE	1999999999	SameSite	None
+
