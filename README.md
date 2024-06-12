@@ -342,6 +342,3 @@ Tempo de Implementação:
 implementação da extensão e lançamento até a data prevista.
 
 ● Métrica: Comparação entre a data de conclusão real e a data planejada.
-
-https://kayke-rodrigues.github.io/AutoNote-Services/
-
